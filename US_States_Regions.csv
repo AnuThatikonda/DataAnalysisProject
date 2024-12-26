@@ -1,0 +1,51 @@
+state,abbreviation,region,latitude,longitude
+Alabama,AL,South,32.806671,-86.79113
+Alaska,AK,West,61.370716,-152.404419
+Arizona,AZ,West,33.729759,-111.431221
+Arkansas,AR,South,34.969704,-92.373123
+California,CA,West,36.116203,-119.681564
+Colorado,CO,West,39.059811,-105.311104
+Connecticut,CT,Northeast,41.597782,-72.755371
+Delaware,DE,South,39.318523,-75.507141
+Florida,FL,South,27.766279,-81.686783
+Georgia,GA,South,33.040619,-83.643074
+Hawaii,HI,West,21.094318,-157.498337
+Idaho,ID,West,44.240459,-114.478828
+Illinois,IL,Midwest,40.349457,-88.986137
+Indiana,IN,Midwest,39.849426,-86.258278
+Iowa,IA,Midwest,42.011539,-93.210526
+Kansas,KS,Midwest,38.5266,-96.726486
+Kentucky,KY,South,37.66814,-84.670067
+Louisiana,LA,South,31.169546,-91.867805
+Maine,ME,Northeast,44.693947,-69.381927
+Maryland,MD,South,39.063946,-76.802101
+Massachusetts,MA,Northeast,42.230171,-71.530106
+Michigan,MI,Midwest,43.326618,-84.536095
+Minnesota,MN,Midwest,45.694454,-93.900192
+Mississippi,MS,South,32.741646,-89.678696
+Missouri,MO,Midwest,38.456085,-92.288368
+Montana,MT,West,46.921925,-110.454353
+Nebraska,NE,Midwest,41.12537,-98.268082
+Nevada,NV,West,38.313515,-117.055374
+New Hampshire,NH,Northeast,43.452492,-71.563896
+New Jersey,NJ,Northeast,40.298904,-74.521011
+New Mexico,NM,West,34.840515,-106.248482
+New York,NY,Northeast,42.165726,-74.948051
+North Carolina,NC,South,35.630066,-79.806419
+North Dakota,ND,Midwest,47.528912,-99.784012
+Ohio,OH,Midwest,40.388783,-82.764915
+Oklahoma,OK,South,35.565342,-96.928917
+Oregon,OR,West,44.572021,-122.070938
+Pennsylvania,PA,Northeast,40.590752,-77.209755
+Rhode Island,RI,Northeast,41.680893,-71.51178
+South Carolina,SC,South,33.856892,-80.945007
+South Dakota,SD,Midwest,44.299782,-99.438828
+Tennessee,TN,South,35.747845,-86.692345
+Texas,TX,South,31.054487,-97.563461
+Utah,UT,West,40.150032,-111.862434
+Vermont,VT,Northeast,44.045876,-72.710686
+Virginia,VA,South,37.769337,-78.169968
+Washington,WA,West,47.400902,-121.490494
+West Virginia,WV,South,38.491226,-80.954456
+Wisconsin,WI,Midwest,44.268543,-89.616508
+Wyoming,WY,West,42.755966,-107.30249
