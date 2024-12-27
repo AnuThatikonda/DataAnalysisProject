@@ -25,7 +25,7 @@ The project uses an e-commerce dataset with the following tables:
 
 1. Data Cleaning
 2. Data Exploration
-3. 3. Visualizations
+3. Visualizations
 
 ## Conclusion
 This project provides a detailed analysis of e-commerce data to help understand customer behavior, optimize product performance, and enhance sales strategies.
